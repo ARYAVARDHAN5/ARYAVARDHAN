@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARYAVARDHAN5
+- 👋 Hi, I’m @ARYAVARDHAN
 - 👀 I’m interested in coding And web developement
 - 🌱 I’m currently learning c,python 
 - 💞️ I’m looking to collaborate with open-source projects demonstrates your skills and collaborative abilities.
